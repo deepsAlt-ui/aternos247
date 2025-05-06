@@ -15,8 +15,8 @@ app.listen(port, () => {
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: "leyendscraft.aternos.me",
-    port: 41324,
+    host: "tuto247.aternos.me",
+    port: 45812,
     username: "deepActivityBot",
     version: false,
     plugins: [AutoAuth],
