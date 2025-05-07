@@ -17,7 +17,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: "tuto247.aternos.me",
     port: 45812,
-    username: "deepActivityBot",
+    username: "tutorial",
     version: false,
     plugins: [AutoAuth],
     AutoAuth: "bot112022",
